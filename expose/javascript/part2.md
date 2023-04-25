@@ -8,8 +8,8 @@
 8. The program will return "[50, 100, 150]". The function goes through the given array, applies the discount on each element, and pushes the new price into discounted.
 9. Error. i is declared within the for loop so it can't be called outside of that code block.
 10. The program will output "3". length is mot modified and is called within the code block.
-11. The program will return "[50, 100, 150]". The function goes through the given array, applies the discount on each element, and pushes the new price into discounted.
-12a. student.name
+11. The program will return "[50, 100, 150]". The function goes through the given array, applies the discount on each element, and pushes the new price into discounted. <br>
+12a. student.name <br> 
 12b. student['Grad Year']
 12c. student.greeting()
 12d. student['Favorite Teacher'].name
