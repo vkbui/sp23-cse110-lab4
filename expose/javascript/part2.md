@@ -11,8 +11,8 @@
 11. The program will return "[50, 100, 150]". The function goes through the given array, applies the discount on each element, and pushes the new price into discounted.
 12. 
     a. student.name <br> 
-12b. student['Grad Year']
-12c. student.greeting()
-12d. student['Favorite Teacher'].name
-12e. student.courseLoad[0]
+    b. student['Grad Year']
+    c. student.greeting()
+    d. student['Favorite Teacher'].name
+    e. student.courseLoad[0]
 
