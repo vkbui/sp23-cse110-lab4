@@ -10,9 +10,9 @@
 10. The program will output "3". length is mot modified and is called within the code block.
 11. The program will return "[50, 100, 150]". The function goes through the given array, applies the discount on each element, and pushes the new price into discounted.
 12. 
-    a. student.name 
-    b. student['Grad Year']
-    c. student.greeting()
-    d. student['Favorite Teacher'].name
-    e. student.courseLoad[0]
+    1. student.name 
+    2. student['Grad Year']
+    3. student.greeting()
+    4. student['Favorite Teacher'].name
+    5. student.courseLoad[0]
 
