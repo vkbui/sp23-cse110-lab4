@@ -35,6 +35,7 @@
 16. In seperate file.
 17. [2, 4, 6]. Here we pass the function doSomething as a parameter of modifyArray. modifyArray takes the given array and the function doSomething and modifies the array, which is multiply each element by 2 in this case.
 18. In seperate file.
+19. The program will output "1 4 3 2".
 
 
 
