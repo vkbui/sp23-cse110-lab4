@@ -15,4 +15,22 @@
     3. student.greeting()
     4. student['Favorite Teacher'].name
     5. student.courseLoad[0]
+13. 
+    1. '32'. Because '+' is used, the number is converted to a string and concatenated.
+    2. 1. Because '-' is used, the string is converted to the number 3.
+    3. 3. Null is treated as 0 because it is added to a number.
+    4. '3null'. Null becomes a string because it is added to a string.
+    5. 4. True is equal to 1 when added to a number.
+    6. 0. Both null and false are treated as numbers.
+    7. 3undefined. Undefined becomes a string because it is added to a string.
+    8. NaN. Because '-' is used, 3 becomes a string and undefined becomes NaN.
+14. 
+    1. True. '2' is converted to a number, which is greater than 1.
+    2. False. '12' comes before '2' in dictionary order.
+    3. True. '2' is converted to a number, which is equal to 2.
+    4. False. They are two different types.
+    5. False. True is equal to the number 1, which is not equal to 2.
+    6. True. Boolean(2) is equal to the number 2.
+15. '==' checks equality with type conversion while '===' checks equality without type conversion.
+
 
